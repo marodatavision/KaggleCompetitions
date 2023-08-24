@@ -24,7 +24,7 @@ You're welcome to use these notebooks as reference material for your own project
 
 If you have any questions, suggestions, or opportunities for collaboration, feel free to reach out to me. You can find my contact details on my [LinkedIn profile](https://www.linkedin.com/in/maximilian-rosen-092317188).
 
-Thank you for visiting my repository and taking the time to explore my Kaggle competition journey!
+Thank you for visiting my repository and taking the time to explore my Kaggle competition journey!  
 
 Best regards,
 Maro

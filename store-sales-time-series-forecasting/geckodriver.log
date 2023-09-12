@@ -72,3 +72,33 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:45019/devtools/browser/e0ac4b86-c461-479b-8254-16e46b3dbb2c
 1694070398681	Marionette	INFO	Stopped listening on port 32993
 [6596] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694546682918	geckodriver	INFO	Listening on 127.0.0.1:36835
+1694546683422	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "42459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebtVIX7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694546683770	Marionette	INFO	Marionette enabled
+1694546683828	Marionette	INFO	Listening on port 33111
+WebDriver BiDi listening on ws://127.0.0.1:42459
+Read port: 33111
+1694546684071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42459/devtools/browser/8d7ceb41-6ebc-43ab-90d8-59f1f5dc2d75
+1694546689474	Marionette	INFO	Stopped listening on port 33111
+[7152] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694548746083	geckodriver	INFO	Listening on 127.0.0.1:60169
+1694548746086	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "60691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelINsUN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694548746409	Marionette	INFO	Marionette enabled
+1694548746458	Marionette	INFO	Listening on port 35019
+WebDriver BiDi listening on ws://127.0.0.1:60691
+Read port: 35019
+1694548746602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60691/devtools/browser/3e53eac7-0995-4a95-8e2a-c46b311bd656
+1694548751966	Marionette	INFO	Stopped listening on port 35019
+[10026] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo

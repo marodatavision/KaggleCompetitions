@@ -144,3 +144,18 @@ Read port: 32801
 console.error: ({})
 DevTools listening on ws://127.0.0.1:46547/devtools/browser/bc87e932-67bc-4825-95b6-9f9c18c22b13
 1700144005501	Marionette	INFO	Stopped listening on port 32801
+1700421414105	geckodriver	INFO	Listening on 127.0.0.1:39585
+1700421414602	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "33573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej9qr3Q"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700421415111	Marionette	INFO	Marionette enabled
+1700421415206	Marionette	INFO	Listening on port 43447
+WebDriver BiDi listening on ws://127.0.0.1:33573
+Read port: 43447
+1700421415453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33573/devtools/browser/eff032a7-4e57-4994-a619-87e75aa43bc2
+1700421421406	Marionette	INFO	Stopped listening on port 43447
+[4765] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
